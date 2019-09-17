@@ -1,0 +1,35 @@
+Extensiones vs code
+----------------------------
+City Lights theme
+EditorConfig for VS Code
+IntelliSense for CSS class names in HTML
+Markdown Preview Enhanced
+Live Server
+open in browser
+PHP IntelliSense
+Spanish Language Pack for Visual Studio Code
+VS Color Picker
+vscode-icons
+
+Extensiones Brackets
+------------------------------
+Autosave Files on Window Blur
+Beautify
+Brackets Outline List
+Custom Work (Pestañas - Trabajando Comodamente)
+ACB Bootstrap Snippets
+Autoprefixer
+Bootstrap4 Snippets
+Brackets Beautify
+Brackets Color Palette
+Brackets Color Picker
+Brackets Css Color Preview
+Brackets Terminal
+Emmet
+Markdown Preview
+PHP SmartHints
+PHP Syntax Hint
+Themes for Brackets
+
+
+
