@@ -142,10 +142,10 @@ Sali de la cita
 Las tablas se escriben con el pipe | y guiones ---.
 
 Ejm:
-ID | NOMBRE | APELLIDOS | SEXO|
+id|nombre|apellidos|sexo|
 --|--|--|--|
-1 | Yadira | Tello C. | F
-2 | Hans | bla bla | M 
+1  | Yadira | Tello C. | F
+2  | Hans | bla bla | M 
 
 ## Editores Online Markdown
 
