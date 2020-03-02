@@ -139,9 +139,10 @@ Sali de la cita
 
 ## Tablas
 
-Las tablas se escriben con el pipe | y guiones ---.
+Las tablas se escriben con el pipe | y 2 guiones
 
 Ejm:
+
 id|nombre|apellidos|sexo|
 --|--|--|--|
 1  | Yadira | Tello C. | F
