@@ -143,7 +143,7 @@ Las tablas se escriben con el pipe | y guiones ---.
 
 Ejm:
 ID | NOMBRE | APELLIDOS | SEXO
----|:---:|---|---:
+--|--|--|--
 1 | Yadira | Tello C. | F
 2 | Hans | bla bla | M 
 
